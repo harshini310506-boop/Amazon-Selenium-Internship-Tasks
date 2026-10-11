@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Amazon Internship Tasks Suite">
+
+    <test name="Internship Tasks 1 to 6">
+
+        <classes>
+
+            <class name="testcases.Task1ProductDetailsTest"/>
+            <class name="testcases.Task2ProductFilterTest"/>
+            <class name="testcases.Task3OrderFlowTest"/>
+            <class name="testcases.Task4LoginProfileTest"/>
+            <class name="testcases.Task5MultipleProductsCartTest"/>
+            <class name="testcases.Task6PriceDropNotificationTest"/>
+
+        </classes>
+
+    </test>
+
+</suite>
